@@ -1,5 +1,14 @@
-### Hi there 👋
 
+<div id="header" align="center">
+  <img src ="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" />
+  <div id="badges">
+    <img src="https://komarev.com/ghpvc/?username=Partizanzero&style=flat-square&color=green" alt="" />
+    <h1>
+      «Hello, world!» 
+     </h1>
+          <img src="https://media.giphy.com/media/FGG1TRyh7mHMk/giphy.gif" width="100px"/>
+  </div>  
+ </div>
 <!--
 **Partizanzero/Partizanzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
