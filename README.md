@@ -13,6 +13,7 @@
 ### :woman_technologist: About Me :
 <div align="center">
   <img src="https://media.giphy.com/media/3GYmecuz4ncOc/giphy.gif" />
+  <p><i>*** and nothing else metter</i></p>
 </div>
  
  --- 
