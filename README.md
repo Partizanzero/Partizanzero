@@ -29,6 +29,10 @@
   ### ✍️ Blog Posts :
   
 <!-- BLOG-POST-LIST:START -->
+- [Основные типы исключений &lpar;Exception&rpar; в Java](https://partizanzero.github.io/partizanzero.github.io/osnovnye-tipy-isklyuchenij-exception-v-java/)
+- [Сборка кубика Рубика 3x3x3.](https://partizanzero.github.io/partizanzero.github.io/cube/)
+- [Pishi](https://partizanzero.github.io/partizanzero.github.io/pishi-code/)
+- [Java — коллекции &lpar;Collections&rpar;. Вопросы и ответы.](https://partizanzero.github.io/partizanzero.github.io/java-collections-faq/)
 <!-- BLOG-POST-LIST:END -->
 
 
