@@ -12,8 +12,8 @@
   <a href="#">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://codepen.io/partizanzero">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/>
   </a>
   </div> 
   
